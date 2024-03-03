@@ -1,2 +1,1 @@
-"# decentralized-app"
-"# nlp" 
+A repository to practice spacy-nlp :)
